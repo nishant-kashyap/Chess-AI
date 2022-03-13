@@ -1,6 +1,6 @@
 # Chess-AI
 
-##Objective:
+## Objective:
 The main objective for this project is to simulate a real chess game as
 closely as possible. The input to the core of the program will most
 likely be the 8 by 8 chessboard, and the output would be moves which
